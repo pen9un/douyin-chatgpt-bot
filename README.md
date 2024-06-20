@@ -7,9 +7,9 @@
 </p>
 
 
-> 抖音ChatGPT自动对话机器人，抖音评论自动回复，抖音自媒体系统，抖音引流工具
+> 抖音ChatGPT自动对话机器人，抖音评论自动回复，抖音自媒体系统，抖音引流工具 🔮🤖🚀
 
-### 🏠 [Homepage](https://github.com/pen9un/douyin-chatgpt-robot)
+### 🏠 [Homepage](https://github.com/pen9un/douyin-chatgpt-bot)
 
 ## 🚀使用说明
 
@@ -80,6 +80,7 @@
 
 - 2023-07-07 支持手机短信一键授权，更为方便快捷
 - 2023-05-17 支持实时修改设置各抖音账号对话指令角色，回复更智能
+- 2023-01-01 系统诞生
 
 ## 🤝作者
 
@@ -94,4 +95,4 @@
 
 ## ✨Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pen9un/douyin-chatgpt-robot&type=Date)](https://star-history.com/#pen9un/douyin-chatgpt-robot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=pen9un/douyin-chatgpt-bot&type=Date)](https://star-history.com/#pen9un/douyin-chatgpt-bot&Date)
