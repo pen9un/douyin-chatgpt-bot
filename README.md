@@ -1,4 +1,4 @@
-<h1 align="center">欢迎使用&nbsp;&nbsp;抖音ChatGPT对话机器人 👋</h1>
+<h1 align="center">欢迎使用&nbsp;&nbsp;DYSYS 抖音自媒体系统 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -7,7 +7,8 @@
 </p>
 
 
-> 抖音AI自动回复引流系统，抖音ChatGPT自动对话机器人，抖音评论自动回复，抖音自媒体系统，抖音引流工具 🔮🤖🚀
+
+> 抖音AI自动回复引流系统，抖音ChatGPT自动对话机器人，抖音评论自动回复，抖音私信自动回复，抖音自媒体系统，抖音引流工具 🔮🤖🚀
 
 ### 🏠 [Homepage](https://github.com/pen9un/douyin-chatgpt-bot)
 
@@ -25,7 +26,8 @@
 - 支持抖音视频管理
 - 支持去水印下载抖音、火山等平台视频
 - 支持评论自动回复管理
-- 抖音私信企业智能客服开发中
+- 支持抖音私信自动回复
+- 抖音私信企业智能客服
 - 支持更多等你探索。。。
 
 如需了解更多，请进微信群，如有问题请联系管理员。
@@ -40,7 +42,7 @@
 
 **抖音评论自动回复：** 系统可以监控用户抖音账号下所有视频，并在第一时间自动回复，提升视频互动流量，提高用户粘度。
 
-**抖音私信自动托管：** [TODO] 已经在开发中了，支持主动打招呼、企业私有知识库对话等功能。
+**抖音私信自动托管：**支持企业话术配置、AI文档知识库配置对接、角色指令实时修改，支持主动打招呼、企业私有知识库对话等功能。
 
 **自定义机器人回复前缀：** 可以根据需要自定义机器人的回复前缀，以使回复更符合用户品牌形象或个人风格。
 
@@ -56,9 +58,19 @@
 
 <img src="resource/image/douyin_user.png" alt="douyin" style="zoom:50%;" />
 
+<img src="resource/image/douyin_user_2.png" alt="douyin" style="zoom:50%;" />
+
+**抖音智能客服（私信自动回复）：**
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112890262651850&bvid=BV13biTe9EMR&cid=500001635503093&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+B站原视频链接：https://www.bilibili.com/video/BV13biTe9EMR
+
 **评论自动回复管理：**
 
 <img src="resource/image/douyin_comment.png" alt="douyin" style="zoom:50%;" />
+
+<img src="resource/image/douyin_comment_2.png" alt="douyin" style="zoom:50%;" />
 
 **抖音视频管理（支持无水印查看下载）：**
 
@@ -78,6 +90,7 @@
 
 ## 📖更新日志
 
+- 2024-07-26 抖音智能客服（私信功能）开发完毕，支持话术库、私有知识库
 - 2024-07-23 重构ChatGPT接口调用，多Key轮询且支持上下文关联（追问）
 - 2023-07-07 支持手机短信一键授权，更为方便快捷
 - 2023-05-17 支持实时修改设置各抖音账号对话指令角色，回复更智能
