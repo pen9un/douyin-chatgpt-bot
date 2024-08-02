@@ -62,7 +62,7 @@
 
 **抖音智能客服（私信自动回复）：**
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112890262651850&bvid=BV13biTe9EMR&cid=500001635503093&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+https://github.com/user-attachments/assets/a557a538-621a-441d-a3bc-0e4c037cb516
 
 B站原视频链接：https://www.bilibili.com/video/BV13biTe9EMR
 
