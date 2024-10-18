@@ -18,7 +18,7 @@
 
 微信交流群（使用方法见群公告，如群二维码失效请加微信 **OceanYoo** ，需备注 **抖音自媒体系统**）：
 
-<img src="resource/image/wechat_group.jpg" alt="douyin" style="zoom: 50%;" />
+<img src="resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
 
 ## 🔮抖音自媒体系统
 
