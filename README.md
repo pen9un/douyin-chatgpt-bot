@@ -110,3 +110,7 @@ B站原视频链接：https://www.bilibili.com/video/BV13biTe9EMR
 ## ✨Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pen9un/douyin-chatgpt-bot&type=Date)](https://star-history.com/#pen9un/douyin-chatgpt-bot&Date)
+
+## 💹 访问量统计
+
+![Visitor Count](https://profile-counter.glitch.me/pen9un/count.svg)
