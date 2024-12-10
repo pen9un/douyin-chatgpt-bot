@@ -16,9 +16,11 @@
 
 开放系统，免费使用。
 
-微信交流群（使用方法见群公告，如群二维码失效请加微信 **OceanYoo** ，需备注 **抖音自媒体系统**）：
+**使用见群公告和官网常见问题。**
 
-<img src="resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
+扫下方微信二维码或微信号 **idtkw1m** 加机器人进群 ，需填写好友验证消息 **DYSYS抖音自媒体系统**，否则机器人不会通过。
+
+<img src="resource/image/wechat_bot.jpg" alt="wechat" style="zoom: 50%;" />
 
 ## 🔮抖音自媒体系统
 
