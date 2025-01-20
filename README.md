@@ -20,7 +20,7 @@
 
 **微信交流群**（系统官网及使用方法见群公告，如群二维码失效请加微信 **OceanYoo** ，需备注 **抖音自媒体系统**）：
 
-<img src="./resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
+<img src="./resource/image/wechat_group.png" alt="douyin" width="300px" />
 
 ## 💰收费标准
 
@@ -90,7 +90,7 @@ B站原视频链接：https://www.bilibili.com/video/BV13biTe9EMR
 
 **手机短信一键授权示例：**
 
-<img src="resource/image/phone_auth.png" alt="douyin" style="zoom: 25%;" />
+<img src="resource/image/phone_auth.png" alt="douyin" width="300px" />
 
 **扫码托管示例：**
 
